@@ -8,6 +8,7 @@ This project implements an **Assembler** and **Simulator** for the K2 Microproce
 - `simulator.c`: Simulates the execution of K2 machine code.
 - `include/`: Contains `assembler.h` and `simulator.h` header files.
 - `programs/`: Contains assembly program `fibonacci.asm`.
+- `bin/`: Contains binary (machine code) output file `fibonacci.bin`.
 
 ## Features
 
